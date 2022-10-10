@@ -13,6 +13,8 @@ def fact(n):
 n=int(input("enter the num:"))
 
 
+
 fact(n)
+
 
 
