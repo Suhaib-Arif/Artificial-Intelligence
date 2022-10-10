@@ -12,5 +12,5 @@ def fact(n):
 
 n=int(input("enter the num:"))
 
-fact(4)
+fact(n)
 
